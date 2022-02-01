@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-5#w^%x1()wu#xstbxj&-k_q!7^4l#o&79u2f2#l8k72%lgbq8(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['206.81.23.250','10.114.0.3']
 
 
 
@@ -137,8 +137,8 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 INTERNAL_IPS = [
-    '127.0.0.1',
-]
+    '206.81.23.250',
+'10.114.0.3']
 
 CACHES = {
     'default': {
