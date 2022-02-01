@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="def73f7d-6d1a-4d71-aced-c4d0c04daf30" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blogsites/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogsites/settings.py" afterDir="false" />
     </list>
@@ -45,8 +47,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -108,7 +112,8 @@
       <updated>1643654464528</updated>
       <workItem from="1643654506292" duration="5644000" />
       <workItem from="1643690519687" duration="79000" />
-      <workItem from="1643690602685" duration="184000" />
+      <workItem from="1643690602685" duration="287000" />
+      <workItem from="1643690934312" duration="82000" />
     </task>
     <task id="LOCAL-00001" summary="dsds">
       <created>1643656690533</created>
@@ -138,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643659657506</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="req">
+      <created>1643690799435</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1643690799435</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

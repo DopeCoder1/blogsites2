@@ -80,11 +80,11 @@ WSGI_APPLICATION = 'blogsites.wsgi.application'
 DATABASES = {
     'default': {
 'ENGINE': 'django.db.backends.postgresql_psycopg2',
-'NAME': 'django',
-'USER' : 'postgres2',
-'PASSWORD' : '3603028',
-'HOST' : '127.0.0.1',
-'PORT' : '5432',
+'NAME': 'defaultdb',
+'USER' : 'doadmin',
+'PASSWORD' : 'QEN4PdSImxOfIDch',
+'HOST' : 'db-postgresql-fra1-73545-do-user-10592506-0.b.db.ondigitalocean.com',
+'PORT' : '25060',
     }
 }
 
